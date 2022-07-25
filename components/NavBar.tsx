@@ -17,6 +17,7 @@ const NavBar: NextPage = () => {
       label: "Tools"
     },
     {
+        
       route : "/",
       label : "Blog"
     },
